@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eAmGMiTrOYgZScnfv+wzmDigs8QBPawepKVtAtdOnBMktsPpBzWFwXHTU3pcdCZP5gYt+a1809B0EWjpbJjIcw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\source\\repos\\AdvanceDashboard\\AdvanceDashboard\\AdvanceDashboard.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\fontawesome.sharp\\5.15.4\\fontawesome.sharp.5.15.4.nupkg.sha512"
+  ],
+  "logs": []
+}
